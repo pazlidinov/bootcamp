@@ -107,6 +107,23 @@
 # print(bool(6<=6))
 # print(bool(6>=6))
 
-print(bool(not(5>5)))
+# print(bool(not(5>5)))
 
-(6>7) and (9>1) and not(5>5)
+# (6>7) and (9>1) and not(5>5)
+# c=a//b
+# d=a%b
+# d=a-c*b
+
+
+# n=k%7
+# if n==0:
+#     print('yakshanba')
+# if n==1:
+#     print('dushanba')
+
+
+
+
+k=int(input())
+a=((k-1)//100+1)
+print(a)
