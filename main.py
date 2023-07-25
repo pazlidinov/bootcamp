@@ -19,3 +19,10 @@
 # IDE - Integrated development environment 
 # Integral dasturlash muhiti 
 # venv - Virtual environment 
+
+
+
+
+a='a,f,d,e,d5,7,895,'
+b=a.split(',')
+print(b)
